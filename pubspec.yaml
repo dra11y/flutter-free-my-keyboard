@@ -4,8 +4,8 @@ version: 0.0.1
 homepage: https://github.com/dra11y/flutter-free-my-keyboard
 
 environment:
-  sdk: ^3.5.3
-  flutter: '>=3.3.0'
+  sdk: ^3.0.0
+  flutter: '>=3.0.0'
 
 dependencies:
   flutter:
