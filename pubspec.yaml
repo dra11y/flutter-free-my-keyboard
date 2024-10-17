@@ -1,0 +1,17 @@
+name: free_my_keyboard
+description: "A Flutter plugin that prevents a startup keyboard bug caused by modifier keys, ensuring the app responds to key events properly."
+version: 0.0.1
+homepage: https://github.com/dra11y/flutter-free-my-keyboard
+
+environment:
+  sdk: ^3.5.3
+  flutter: '>=3.3.0'
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^5.0.0
